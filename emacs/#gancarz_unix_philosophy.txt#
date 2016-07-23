@@ -6,6 +6,7 @@ In 1994, Mike Gancarz (a member of the team that designed the X Window System), 
 3. Build a prototype as soon as possible.
 4. Choose portability over effectively.
 5. Store data in flat text files.
+
 6. Use software leverage to your advantage.
 7. Use shell scripts to increase leverage and portability.
 8. Avoid captive user interfaces.
